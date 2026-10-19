@@ -13,7 +13,7 @@ Pythonを用いたデータ分析、ケモメトリクス、機械学習、イ�
 - 第2章　`Pythonプログラミングの導入と基礎`
 - 第3章　`Pythonで理解する基礎統計`
 - 第4章　`Pythonで理解する線形代数`
-- 第5章　`ChatGPTの効果的な使い方`
+- 第5章　`ChatGPTの導入`
 - 第6章　`ケモメトリクスの基礎知識`
 - 第7章　`ケモメトリクスの基礎知識：応用編`
 - 第8章　`スペクトルデータの前処理`
@@ -42,13 +42,12 @@ Pythonを用いたデータ分析、ケモメトリクス、機械学習、イ�
 - `SpeAna06_1_CLSandILS.ipynb`: 第6章1節、CLSとILS
 - `SpeAna07_1_PCA.ipynb`: 第7章1節、主成分分析（PCA）
 - `SpeAna07_2_PLS.ipynb`: 第7章2節、部分最小二乗回帰（PLS）
-- `SpeAna08_1-4_pretreatment.ipynb`: 第8章1～4節、スペクトル前処理
+- `SpeAna08_1-4_pretreatment.ipynb`: 第8章1～4節、前処理
 - `SpeAna08_5_modules.ipynb`: 第8章5節、モジュールの使用
 - `SpeAna09_1-6_machinelearning.ipynb`: 第9章1～6節、機械学習の応用
-- `SpeAna10_1-9_practicaluse.ipynb`: 第10章1～9節、スペクトル操作の実践
-- `SpeAna11_1-6_practicaluse.ipynb`: 第11章1～6節、ケモメトリクスと機械学習の実践
-- `SpeAna12_1_Imaging.ipynb`: 第12章1節、イメージングへの応用
-
+- `SpeAna10_1-9_practicaluse.ipynb`: 第10章1～9節、実践的な応用
+- `SpeAna11_1-6_practicaluse.ipynb`: 第11章1～6節、実践的な応用（続き）
+- `SpeAna12_1_Imaging.ipynb`: 第12章1節、イメージングの応用
 
 
 ### ライブラリインポート用ファイル
